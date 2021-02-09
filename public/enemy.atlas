@@ -1,0 +1,377 @@
+
+enemy.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_minion_die
+  rotate: false
+  xy: 1148, 1819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+blue_minion_die
+  rotate: false
+  xy: 2, 291
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+blue_minion_die
+  rotate: false
+  xy: 384, 673
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+blue_minion_die
+  rotate: false
+  xy: 184, 291
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 4
+blue_minion_die
+  rotate: false
+  xy: 384, 491
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 5
+blue_minion_die
+  rotate: false
+  xy: 566, 673
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 6
+blue_minion_run
+  rotate: false
+  xy: 766, 1437
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 8
+blue_minion_run
+  rotate: false
+  xy: 948, 1073
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+blue_minion_run
+  rotate: false
+  xy: 1512, 1637
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+blue_minion_run
+  rotate: false
+  xy: 1694, 1819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+blue_minion_run
+  rotate: false
+  xy: 1694, 1819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 7
+blue_minion_run
+  rotate: false
+  xy: 948, 891
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 4
+blue_minion_run
+  rotate: false
+  xy: 1694, 1637
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 5
+blue_minion_run
+  rotate: false
+  xy: 766, 709
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 6
+boss_attack
+  rotate: false
+  xy: 2, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 1
+boss_die
+  rotate: false
+  xy: 2, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 1
+boss_attack
+  rotate: false
+  xy: 2, 1237
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 2
+boss_die
+  rotate: false
+  xy: 2, 1237
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 4
+boss_die
+  rotate: false
+  xy: 2, 1237
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 2
+boss_attack
+  rotate: false
+  xy: 384, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 3
+boss_attack
+  rotate: false
+  xy: 384, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 5
+boss_die
+  rotate: false
+  xy: 384, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 3
+boss_attack
+  rotate: false
+  xy: 2, 855
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 4
+boss_attack
+  rotate: false
+  xy: 384, 1237
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 6
+boss_attack
+  rotate: false
+  xy: 384, 1237
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 9
+boss_attack
+  rotate: false
+  xy: 766, 1619
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 7
+boss_attack
+  rotate: false
+  xy: 2, 473
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 8
+boss_die
+  rotate: false
+  xy: 384, 855
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 5
+boss_projectile_A
+  rotate: false
+  xy: 894, 537
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: 1
+boss_projectile_A
+  rotate: false
+  xy: 1016, 537
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: 3
+boss_projectile_A
+  rotate: false
+  xy: 1094, 735
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: 2
+boss_projectile_B
+  rotate: false
+  xy: 1876, 1803
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 4
+boss_projectile_B
+  rotate: false
+  xy: 1876, 1605
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 1
+boss_projectile_B
+  rotate: false
+  xy: 948, 693
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 2
+boss_projectile_B
+  rotate: false
+  xy: 948, 693
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 5
+boss_projectile_B
+  rotate: false
+  xy: 748, 511
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 3
+red_minion_die
+  rotate: false
+  xy: 766, 1255
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+red_minion_die
+  rotate: false
+  xy: 948, 1437
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+red_minion_die
+  rotate: false
+  xy: 1148, 1637
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+red_minion_die
+  rotate: false
+  xy: 1330, 1819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 4
+red_minion_die
+  rotate: false
+  xy: 2, 109
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 6
+red_minion_run
+  rotate: false
+  xy: 766, 1073
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+red_minion_run
+  rotate: false
+  xy: 948, 1255
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+red_minion_run
+  rotate: false
+  xy: 1330, 1637
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+red_minion_run
+  rotate: false
+  xy: 1330, 1637
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 7
+red_minion_run
+  rotate: false
+  xy: 1512, 1819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 4
+red_minion_run
+  rotate: false
+  xy: 184, 109
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 5
+red_minion_run
+  rotate: false
+  xy: 566, 491
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 6
+red_minion_run
+  rotate: false
+  xy: 766, 891
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 8
+rock
+  rotate: false
+  xy: 2, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+tap_icon
+  rotate: false
+  xy: 119, 39
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: 1
+tap_icon
+  rotate: false
+  xy: 204, 39
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: 2
+tap_icon
+  rotate: false
+  xy: 289, 39
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: 3
